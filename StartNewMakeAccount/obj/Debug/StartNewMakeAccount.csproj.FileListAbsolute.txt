@@ -1,0 +1,13 @@
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\StartNewMakeAccount.exe.config
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\StartNewMakeAccount.exe
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\StartNewMakeAccount.pdb
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\GetProxy.dll
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\WebDriver.dll
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\WebDriver.xml
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\obj\Debug\StartNewMakeAccount.csprojAssemblyReference.cache
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\obj\Debug\StartNewMakeAccount.csproj.CoreCompileInputs.cache
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\obj\Debug\StartNewMakeAccount.csproj.CopyComplete
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\obj\Debug\StartNewMakeAccount.exe
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\obj\Debug\StartNewMakeAccount.pdb
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\names.txt
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\gmail.txt
