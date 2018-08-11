@@ -37,8 +37,8 @@ namespace StartNewMakeAccount
                 option.AddArgument($"--proxy-server={list.FirstOrDefault()}");  //
                 option.AddArgument("no-sandbox");
 
-                if(show)
-                option.AddArgument("--window-position=-32000,-32000");
+                if (show)
+                    option.AddArgument("--window-position=-32000,-32000");
                 ChromeDriver driver = new ChromeDriver(option);
                 driver.Manage().Timeouts().ImplicitWait = new TimeSpan(0, 1, 30);
 

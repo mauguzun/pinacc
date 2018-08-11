@@ -65,7 +65,7 @@ namespace StartNewMakeAccount
                 driver.Manage().Timeouts().ImplicitWait = new TimeSpan(0, 0, 55);
                 driver.FindElementByCssSelector("button.red").Click();
 
-                File.AppendAllText("result.txt", $"{email}:{PASSWORD}{Environment.NewLine}");
+                File.AppendAllText(DateTime.Now.ToLocalTime() + ".txt", $"{email}:{PASSWORD}{Environment.NewLine}");
 
                 return true;
             }
