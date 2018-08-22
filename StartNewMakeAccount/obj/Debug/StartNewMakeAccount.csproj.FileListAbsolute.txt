@@ -11,3 +11,5 @@ C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\obj\Debug\St
 C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\obj\Debug\StartNewMakeAccount.pdb
 C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\names.txt
 C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\gmail.txt
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\WebDriver.Support.dll
+C:\Users\maugu\source\repos\StartNewMakeAccount\StartNewMakeAccount\bin\Debug\WebDriver.Support.xml

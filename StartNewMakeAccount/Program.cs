@@ -2,6 +2,7 @@
 using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,11 +14,13 @@ namespace StartNewMakeAccount
        static  bool show = false;
         static void Main(string[] args)
         {
+
+         
             GetProxy.ProxyReader proxyReader = new GetProxy.ProxyReader();
             var list = proxyReader.GetList();
 
 
-            // WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(70));
+          //  WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(70));
             int i = 0;
             Console.WriteLine("Show ?");
             if (Console.ReadLine() != "y")
@@ -39,6 +42,7 @@ namespace StartNewMakeAccount
 
                 if (show)
                     option.AddArgument("--window-position=-32000,-32000");
+
                 ChromeDriver driver = new ChromeDriver(option);
                 driver.Manage().Timeouts().ImplicitWait = new TimeSpan(0, 1, 30);
 

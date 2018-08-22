@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -41,7 +42,7 @@ namespace StartNewMakeAccount
 
         public bool MakeLogin()
         {
-
+            string[] emails = File.ReadAllLines("email.txt");
             try
             {
                 var random = new Random();
@@ -65,7 +66,7 @@ namespace StartNewMakeAccount
                 driver.Manage().Timeouts().ImplicitWait = new TimeSpan(0, 0, 55);
                 driver.FindElementByCssSelector("button.red").Click();
 
-                File.AppendAllText(DateTime.Now.ToLocalTime() + ".txt", $"{email}:{PASSWORD}{Environment.NewLine}");
+                File.AppendAllText(DateTime.Now.ToString("yyyyMMdd") + ".txt", $"{email}:{PASSWORD}{Environment.NewLine}");
 
                 return true;
             }
@@ -76,16 +77,26 @@ namespace StartNewMakeAccount
             }
             finally
             {
-                emails.Remove(email);
-                File.WriteAllLines("gmail.txt", emails);
-
+               
+              
             }
 
         }
 
         public void CheckPage()
         {
-
+            if (!gender && driver.FindElementsByCssSelector(".NuxGenderStep__headerContent").Count == 1)
+            {
+                var buttons = driver.FindElementsByTagName("button");
+                foreach (var item in buttons)
+                {
+                    if(item.Text.ToLower().Contains("female"))
+                    {
+                        item.Click();
+                    }
+                }
+                //Female
+            }
             if (!gender && driver.FindElementsByCssSelector("label[for='female']").Count == 1)
             {
                 try
@@ -255,7 +266,8 @@ namespace StartNewMakeAccount
                         driver.FindElementById("userLastName").SendKeys(Keys.Backspace);
 
                     }
-
+                   var selectElement = new SelectElement(driver.FindElementById("accountBasicsCountry"));
+                    selectElement.SelectByValue("US");
 
 
                     driver.FindElementById("userFirstName").SendKeys(name[new Random().Next(0, 3000)]);
@@ -280,6 +292,7 @@ namespace StartNewMakeAccount
                     action.MoveToElement(sv).DoubleClick().Build().Perform();
 
                     driver.FindElementById("boardEditName").SendKeys(name[new Random().Next(0, 3000)].Trim());
+                 
 
 
                     var saves = driver.FindElementsByTagName("button");
