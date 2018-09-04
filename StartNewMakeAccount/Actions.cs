@@ -3,6 +3,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -24,7 +25,7 @@ namespace StartNewMakeAccount
         private bool url = false;
 
         private string email;
-        private List<string> emails;
+     
 
         protected string[] name;
 
@@ -42,14 +43,15 @@ namespace StartNewMakeAccount
 
         public bool MakeLogin()
         {
-            string[] emails = File.ReadAllLines("email.txt");
+           
             try
             {
                 var random = new Random();
                 this.name = File.ReadLines("names.txt").ToArray();
-                this.emails = File.ReadAllLines("gmail.txt").ToList();
+                string[] emails = File.ReadAllLines("gmail.txt");
+                
 
-                email = $"mauguzun+{name[random.Next(1500, 3000)].Trim()}{name[random.Next(0, 1500)].Trim()}@gmail.com";
+                email = $"{emails[random.Next(0, emails.Length)]}+{name[random.Next(1500, 3000)].Trim()}{name[random.Next(0, 1500)].Trim()}@gmail.com";
 
                 string current_name = name[new Random().Next(0, 3000)];
 
@@ -260,62 +262,67 @@ namespace StartNewMakeAccount
             {
                 try
                 {
-                    for (int i = 0; i < 20; i++)
+                    for (int i = 0; i < 50; i++)
                     {
                         driver.FindElementById("userFirstName").SendKeys(Keys.Backspace);
                         driver.FindElementById("userLastName").SendKeys(Keys.Backspace);
 
                     }
-                   var selectElement = new SelectElement(driver.FindElementById("accountBasicsCountry"));
+                    var selectElement = new SelectElement(driver.FindElementById("accountBasicsCountry"));
                     selectElement.SelectByValue("US");
 
 
-                    driver.FindElementById("userFirstName").SendKeys(name[new Random().Next(0, 3000)]);
-                    driver.FindElementById("userLastName").SendKeys(name[new Random().Next(0, 3000)]);
-                    var buttons = driver.FindElementsByTagName("button");
-                    foreach (IWebElement button in buttons)
-                    {
-                        if (button.Text.Contains("Save"))
-                            button.Click();
-                    }
+                    driver.FindElementById("userFirstName").SendKeys(PrettyName());
+                    driver.FindElementById("userLastName").SendKeys(PrettyName());
+
+                    string[] cities = File.ReadAllLines("city_names.txt");
+                    driver.FindElementById("userLocation").SendKeys(cities[new Random().Next(0, cities.Count())]);
+
+                    string userName = driver.FindElementById("userUserName").GetAttribute("value");
+
+                    //malmopianoilianaruby
+                    SaveSettings();
                     settings = true;
+                    //$$("input[type=file]")
+                    Thread.Sleep(new TimeSpan(0, 0, 5));
+
+
+
+                    //data-test-id="createBoardCard"
                     // tut
 
-                    driver.Url = "https://pinterest.com/";
-
-                    var wrappers = driver.FindElementsByClassName("pinWrapper");
-                    wrappers[1].Click();
-
-                    var sv = driver.FindElementByClassName("PulsarNewInnerCircle");
-                    Thread.Sleep(TimeSpan.FromSeconds(3));
-                    OpenQA.Selenium.Interactions.Actions action = new OpenQA.Selenium.Interactions.Actions(driver);
-                    action.MoveToElement(sv).DoubleClick().Build().Perform();
-
-                    driver.FindElementById("boardEditName").SendKeys(name[new Random().Next(0, 3000)].Trim());
-                 
-
-
-                    var saves = driver.FindElementsByTagName("button");
-                    foreach (var save in saves)
+                    driver.Url = "https://pinterest.com/" + userName + "/boards";
+                    Thread.Sleep(new TimeSpan(0, 0, 5));
+                    var createBoards = driver.FindElementsByCssSelector("[data-test-id=createBoardCard]");
+                    Thread.Sleep(new TimeSpan(0, 0, 5));
+                    foreach (var item in createBoards)
                     {
-
-                        if (save.Text.Contains("Create"))
+                        if (item.Enabled && item.Displayed)
                         {
-                            try
-                            {
-                                save.Click();
-                                Thread.Sleep(TimeSpan.FromSeconds(5));
-                            }
-                            catch
-                            {
+                            item.Click();
 
-                            }
+                        }
+                    }
+
+                    var input = driver.FindElementById("boardEditName");
+                    input.SendKeys(PrettyName());
+
+                    var buttonsCreate = driver.FindElementsByTagName("button");
+                    foreach (var item in buttonsCreate)
+                    {
+                        if (item.Text.Contains("Create") && item.Enabled && item.Displayed)
+                        {
+                            item.Click();
+                            Thread.Sleep(new TimeSpan(0, 0, 15));
+                            AddImage();
 
 
                         }
-
-
                     }
+                   
+
+
+
 
 
 
@@ -328,6 +335,70 @@ namespace StartNewMakeAccount
 
         }
 
+        private void AddImage()
+        {
+            driver.Url = "https://pinterest.com/settings";
+            driver.FindElementById("userLastName").SendKeys(Keys.Space);
+            var buttons = driver.FindElementsByTagName("button");
+            foreach (var item in buttons)
+            {
+                var xt = item.Text;
+                if (item.Text.Contains("Change picture"))
+                {
 
+                    try
+                    {
+                        driver.FindElementById("userLastName").SendKeys(Keys.Backspace);
+                        OpenQA.Selenium.Interactions.Actions action = new OpenQA.Selenium.Interactions.Actions(driver);
+                        action.MoveToElement(item);
+                        item.Click();
+                        Thread.Sleep(new TimeSpan(0, 0, 5));
+
+                        IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
+                        string count = (string)js.ExecuteScript("document.querySelector('input[type=file]').setAttribute('style', 'display:block');");
+
+                        var image = driver.FindElementByCssSelector("input[type=file]");
+                        if (image != null && image.Enabled && image.Displayed)
+                        {
+                            var x = new ImageRepository();
+                            x.LoadImages();
+                            string imgPath = x.Random();
+                            image.SendKeys(imgPath);
+                            Thread.Sleep(new TimeSpan(0, 0, 15));
+                            SaveSettings();
+                            Thread.Sleep(new TimeSpan(0, 0, 5));
+                            x.Delete(imgPath);
+                        }
+
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine("exception on imnage iploade", ex.Message);
+                    }
+                    //item.Click();
+                }
+            }
+        }
+
+        private bool SaveSettings()
+        {
+            var buttons = driver.FindElementsByTagName("button");
+            foreach (IWebElement button in buttons)
+            {
+                if (button.Text.Contains("Save"))
+                    button.Click();
+            }
+
+            return true;
+        }
+
+        private string PrettyName()
+        {
+            string prettyName =  name[new Random().Next(0, 3000)];
+            string res =  prettyName.ToLower().Trim();
+            return  new CultureInfo("en-US").TextInfo.ToTitleCase(res);
+
+
+        }
     }
 }

@@ -15,6 +15,9 @@ namespace StartNewMakeAccount
         static void Main(string[] args)
         {
 
+
+           
+
          
             GetProxy.ProxyReader proxyReader = new GetProxy.ProxyReader();
             var list = proxyReader.GetList();
@@ -40,10 +43,14 @@ namespace StartNewMakeAccount
                 option.AddArgument($"--proxy-server={list.FirstOrDefault()}");  //
                 option.AddArgument("no-sandbox");
 
+                Console.Title = list.FirstOrDefault();
+
                 if (show)
                     option.AddArgument("--window-position=-32000,-32000");
 
                 ChromeDriver driver = new ChromeDriver(option);
+
+               // driver.Manage().Timeouts().PageLoad = new TimeSpan(0, 0, 0);
                 driver.Manage().Timeouts().ImplicitWait = new TimeSpan(0, 1, 30);
 
                 Steps ac = new Steps(driver);
@@ -60,6 +67,7 @@ namespace StartNewMakeAccount
                 else
                 {
                     list.RemoveAt(0);
+                    File.WriteAllLines(proxyReader.Path, list.ToArray());
                     driver.Quit();
                 }
             }
