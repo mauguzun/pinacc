@@ -1,4 +1,5 @@
-﻿using OpenQA.Selenium.Chrome;
+﻿using GetProxy;
+using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
@@ -11,19 +12,24 @@ namespace StartNewMakeAccount
 {
     class Program
     {
-       static  bool show = false;
+        static bool show = false;
+
+        static string currentProxy;
+      
+
+
+ 
         static void Main(string[] args)
         {
 
 
-           
-
-         
-            GetProxy.ProxyReader proxyReader = new GetProxy.ProxyReader();
-            var list = proxyReader.GetList();
 
 
-          //  WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(70));
+          
+            RandomProxy();
+
+
+            //  WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(70));
             int i = 0;
             Console.WriteLine("Show ?");
             if (Console.ReadLine() != "y")
@@ -33,24 +39,27 @@ namespace StartNewMakeAccount
             {
 
 
+
+
+
                 if (i > 5)
                 {
-                    list.RemoveAt(0);
+                    RandomProxy();
                     i = 0;
                 }
 
                 ChromeOptions option = new ChromeOptions();
-                option.AddArgument($"--proxy-server={list.FirstOrDefault()}");  //
+                option.AddArgument($"--proxy-server={currentProxy}");  //
                 option.AddArgument("no-sandbox");
 
-                Console.Title = list.FirstOrDefault();
+                Console.Title = currentProxy;
 
                 if (show)
                     option.AddArgument("--window-position=-32000,-32000");
 
                 ChromeDriver driver = new ChromeDriver(option);
 
-               // driver.Manage().Timeouts().PageLoad = new TimeSpan(0, 0, 0);
+                // driver.Manage().Timeouts().PageLoad = new TimeSpan(0, 0, 0);
                 driver.Manage().Timeouts().ImplicitWait = new TimeSpan(0, 1, 30);
 
                 Steps ac = new Steps(driver);
@@ -66,8 +75,8 @@ namespace StartNewMakeAccount
                 }
                 else
                 {
-                    list.RemoveAt(0);
-                    File.WriteAllLines(proxyReader.Path, list.ToArray());
+
+                    RandomProxy();
                     driver.Quit();
                 }
             }
@@ -80,6 +89,21 @@ namespace StartNewMakeAccount
 
         }
 
+        private static void RandomProxy()
+        {
+            GetProxy.ProxyReader proxyReader = new GetProxy.ProxyReader();
+            var   proxyList = proxyReader.GetList();
+            currentProxy = proxyList[new Random().Next(0, proxyList.Count())];
+
+            try
+            {
+               
+                proxyList.Remove(currentProxy);
+                File.WriteAllLines(proxyReader.Path, proxyList.ToArray());
+              
+            }
+            catch { }
+        }
 
     }
 }
