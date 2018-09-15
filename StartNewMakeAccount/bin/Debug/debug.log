@@ -7262,3 +7262,924 @@
 [0906/162312.426:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
 [0906/162312.426:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
 [0906/162312.427:ERROR:exception_snapshot_win.cc(88)] thread ID 17128 not found in process
+[0906/174913.174:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/174920.797:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/180728.053:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/183404.393:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183404.444:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183404.444:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183404.444:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183404.444:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183404.444:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183404.444:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183404.444:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183405.161:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183405.210:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183405.210:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183405.210:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183405.210:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183405.210:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/183404.445:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0906/183423.691:ERROR:exception_snapshot_win.cc(88)] thread ID 12452 not found in process
+[0906/183405.210:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0906/183423.803:ERROR:exception_snapshot_win.cc(88)] thread ID 12384 not found in process
+[0906/194519.434:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/194805.931:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/201254.092:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/201532.529:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/203258.108:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/204046.810:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/210551.756:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/222541.037:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/222541.038:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/222541.039:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/222541.039:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/222541.039:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/222541.039:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0906/222541.040:ERROR:exception_snapshot_win.cc(88)] thread ID 4360 not found in process
+[0906/222546.988:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/222546.990:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/222546.990:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/222546.991:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/222546.991:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/222546.991:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0906/222547.152:ERROR:exception_snapshot_win.cc(88)] thread ID 10748 not found in process
+[0906/230915.824:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/231648.224:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/232406.871:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/232602.419:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/232813.212:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/233237.233:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0906/233954.076:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/233954.078:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/233954.078:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/233954.078:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/233954.078:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/233954.078:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/233954.078:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/233954.078:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/233954.078:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/233954.078:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0906/233954.078:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0906/233954.079:ERROR:exception_snapshot_win.cc(88)] thread ID 18588 not found in process
+[0907/020440.375:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/020447.344:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/020448.289:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/020626.877:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/020713.853:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/020901.343:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/020906.964:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/022217.281:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/022858.636:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/023610.803:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/023813.462:ERROR:exception_handler_server.cc(526)] ConnectNamedPipe: The pipe is being closed. (0xE8)
+[0907/075016.566:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/075016.568:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/075016.568:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/075016.568:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/075016.568:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0907/075016.585:ERROR:exception_snapshot_win.cc(88)] thread ID 20920 not found in process
+[0907/075022.008:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/075022.009:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/075022.009:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/075022.009:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/075022.009:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0907/075022.011:ERROR:exception_snapshot_win.cc(88)] thread ID 9320 not found in process
+[0907/100450.907:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/101402.530:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/102003.566:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/180944.924:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/180947.100:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/180947.100:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/180947.100:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/180947.748:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/180947.748:ERROR:exception_snapshot_win.cc(88)] thread ID 18708 not found in process
+[0907/222447.562:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/222628.395:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/222811.000:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/223156.973:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/224249.950:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/224433.906:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/224833.916:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0907/225740.538:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0908/001052.357:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0908/001647.224:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0908/001851.250:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0908/002430.278:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0908/003253.201:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0908/132114.674:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0908/132114.676:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0908/132114.676:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0908/132114.676:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0908/132114.676:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0908/132114.676:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0908/132114.676:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0908/132114.703:ERROR:exception_snapshot_win.cc(88)] thread ID 14740 not found in process
+[0908/132119.029:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0908/132119.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0908/132119.031:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0908/132119.031:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0908/132119.047:ERROR:exception_snapshot_win.cc(88)] thread ID 11528 not found in process
+[0909/000120.052:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/000120.089:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/000120.089:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/000120.089:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/000120.089:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/000120.089:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0909/000120.090:ERROR:exception_snapshot_win.cc(88)] thread ID 2092 not found in process
+[0909/000124.017:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/000124.020:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/000124.020:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0909/000124.021:ERROR:exception_snapshot_win.cc(88)] thread ID 5924 not found in process
+[0909/002247.303:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/002730.941:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/003242.741:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/003713.896:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/005518.161:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/010445.373:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/010445.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/010445.374:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/010445.375:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/010445.375:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/010445.375:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/010445.375:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0909/010445.448:ERROR:exception_snapshot_win.cc(88)] thread ID 2696 not found in process
+[0909/011453.308:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/012004.978:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/013655.517:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/014038.411:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/020117.889:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/024630.638:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/025054.692:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/031223.309:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/031353.757:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/031811.231:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/084703.244:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.245:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.245:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.245:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.245:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.245:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.245:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0909/084703.248:ERROR:exception_snapshot_win.cc(88)] thread ID 5968 not found in process
+[0909/084703.263:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.264:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.264:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.264:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.264:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.264:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0909/084703.281:ERROR:exception_snapshot_win.cc(88)] thread ID 7772 not found in process
+[0909/084703.491:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.492:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.492:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.492:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.492:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.492:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/084703.492:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0909/084703.506:ERROR:exception_snapshot_win.cc(88)] thread ID 9924 not found in process
+[0909/142318.605:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/142827.218:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/143122.183:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/151030.433:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/151030.485:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/151030.485:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/151030.485:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/151030.485:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/151030.485:ERROR:exception_snapshot_win.cc(88)] thread ID 16052 not found in process
+[0909/151038.684:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/151038.712:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/151038.712:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0909/151038.712:ERROR:exception_snapshot_win.cc(88)] thread ID 20504 not found in process
+[0909/161037.159:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0909/162947.626:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/004105.733:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/004302.981:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/005032.008:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/005158.852:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/010846.338:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/011559.009:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/012107.193:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/012444.881:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/013115.884:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/013252.207:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/013435.014:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/022145.994:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/023818.894:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/030026.195:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/031027.011:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/031204.418:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/031650.220:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/033155.111:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/033609.680:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/033803.393:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/033930.518:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/034107.446:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/034313.889:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/034457.196:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/035733.673:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/040624.585:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/041354.085:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/042306.375:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/043006.586:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/043211.207:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/043441.263:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/043643.562:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/043919.500:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/044711.176:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/044937.978:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/084851.800:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084851.803:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084851.803:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084851.803:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084851.803:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/084851.826:ERROR:exception_snapshot_win.cc(88)] thread ID 6220 not found in process
+[0910/084852.013:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.015:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.015:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.015:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.015:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.015:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/084852.024:ERROR:exception_snapshot_win.cc(88)] thread ID 12500 not found in process
+[0910/084852.240:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.242:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.242:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.242:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.242:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.242:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/084852.254:ERROR:exception_snapshot_win.cc(88)] thread ID 8008 not found in process
+[0910/084852.524:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.530:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.530:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.530:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.530:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.530:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/084852.537:ERROR:exception_snapshot_win.cc(88)] thread ID 2388 not found in process
+[0910/084852.938:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.940:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.940:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.940:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.940:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084852.940:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/084852.950:ERROR:exception_snapshot_win.cc(88)] thread ID 16980 not found in process
+[0910/084853.091:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/084853.092:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/084853.116:ERROR:exception_snapshot_win.cc(88)] thread ID 16176 not found in process
+[0910/155941.842:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/161911.102:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/161911.103:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/161911.104:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/161911.104:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/161911.104:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/161911.104:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/161911.105:ERROR:exception_snapshot_win.cc(88)] thread ID 20308 not found in process
+[0910/183446.067:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/183452.178:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/184032.457:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/184332.196:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/184601.085:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/185802.246:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.247:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.247:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.247:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.247:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.247:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/185802.247:ERROR:exception_snapshot_win.cc(88)] thread ID 23160 not found in process
+[0910/185802.266:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.267:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.267:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.267:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.267:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.267:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.267:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/185802.267:ERROR:exception_snapshot_win.cc(88)] thread ID 14704 not found in process
+[0910/185802.332:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.333:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.333:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.333:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.333:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.333:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/185802.333:ERROR:exception_snapshot_win.cc(88)] thread ID 15868 not found in process
+[0910/185802.429:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.430:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.430:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.431:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.431:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.431:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.431:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.431:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/185802.432:ERROR:exception_snapshot_win.cc(88)] thread ID 15704 not found in process
+[0910/185802.547:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.550:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.550:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.550:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.550:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.550:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.550:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/185802.550:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/185802.550:ERROR:exception_snapshot_win.cc(88)] thread ID 27348 not found in process
+[0910/190923.032:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/191033.586:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/191800.449:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/191926.130:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/192339.473:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/203500.823:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/204130.538:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/204321.735:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/204547.572:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/204745.657:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/205022.573:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/205217.350:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/205848.393:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/210410.349:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/210410.351:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/210410.351:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/210410.351:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0910/210410.351:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0910/210410.773:ERROR:exception_snapshot_win.cc(88)] thread ID 23228 not found in process
+[0910/213631.477:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/213635.964:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/213750.017:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/213841.856:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/214014.757:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/214159.334:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/220131.975:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/221128.915:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/221208.505:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/221244.986:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/221731.751:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/221839.690:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0910/222249.475:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/040559.278:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/040559.280:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/040559.281:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/040559.281:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0911/040559.284:ERROR:exception_snapshot_win.cc(88)] thread ID 13972 not found in process
+[0911/040627.893:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/040627.895:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/040627.896:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/040627.896:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/040627.896:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/040627.896:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0911/040627.899:ERROR:exception_snapshot_win.cc(88)] thread ID 26344 not found in process
+[0911/043210.123:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/043433.094:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/043651.622:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/044602.633:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/050154.326:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/050337.663:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/050620.646:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/055231.192:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/055231.195:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/055231.195:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/055231.195:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0911/055231.202:ERROR:exception_snapshot_win.cc(88)] thread ID 1608 not found in process
+[0911/060315.820:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/060531.800:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/060709.946:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/060913.135:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/061456.231:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/063601.407:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/094100.808:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/094100.810:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/094100.810:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/094100.811:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/094100.811:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/094100.811:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0911/094100.814:ERROR:exception_snapshot_win.cc(88)] thread ID 10488 not found in process
+[0911/133541.356:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/133820.957:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/133820.959:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/133820.959:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/133820.959:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/133820.959:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/133820.960:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/133820.960:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0911/133820.960:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0911/133820.962:ERROR:exception_snapshot_win.cc(88)] thread ID 19016 not found in process
+[0911/220345.779:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/220458.327:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/222500.965:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/222919.694:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/224701.623:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/225307.081:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/225513.304:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/230002.561:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/230219.129:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/230352.728:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/230843.930:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/232525.021:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0911/233011.400:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/001126.304:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/001608.719:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/002135.813:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/004102.722:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/070344.118:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.120:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.120:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.120:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.120:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.120:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0912/070344.262:ERROR:exception_snapshot_win.cc(88)] thread ID 18540 not found in process
+[0912/070344.685:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.690:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.690:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.690:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.690:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.690:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.690:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.690:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.690:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/070344.690:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0912/070344.725:ERROR:exception_snapshot_win.cc(88)] thread ID 19628 not found in process
+[0912/162102.163:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/162211.771:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/163123.578:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/163714.039:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/163800.222:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/164200.500:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/164702.768:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/164816.776:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/165033.020:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/165033.022:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/165033.022:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/165033.022:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/165033.022:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/165033.022:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/165033.022:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0912/165033.027:ERROR:exception_snapshot_win.cc(88)] thread ID 9932 not found in process
+[0912/194247.500:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/194749.701:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/200443.396:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/202235.751:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/202413.453:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/203600.077:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/204419.003:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/204651.906:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/204651.907:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/204651.907:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/204651.907:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/204651.907:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/204651.907:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0912/204651.907:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0912/204651.913:ERROR:exception_snapshot_win.cc(88)] thread ID 11368 not found in process
+[0912/224001.259:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/224156.121:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/224814.534:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/225248.400:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/225922.261:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/231617.574:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0912/233504.589:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/000839.228:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/001735.272:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/002241.327:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/002942.171:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/003206.701:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/003420.588:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/005640.096:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/012024.353:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/013603.776:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/014521.889:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/021352.799:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/021708.911:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/022106.497:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/070609.460:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/070609.461:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/070609.461:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/070609.461:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/070609.461:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/070609.461:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/070609.461:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0913/070609.463:ERROR:exception_snapshot_win.cc(88)] thread ID 13968 not found in process
+[0913/221955.705:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/222001.807:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/222203.645:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/222223.658:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/223004.428:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/224228.660:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/224933.179:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0913/225304.403:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225304.409:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225304.409:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225304.410:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225304.410:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225304.410:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225304.410:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225304.410:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225304.410:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0913/225304.410:ERROR:exception_snapshot_win.cc(88)] thread ID 14648 not found in process
+[0913/225305.494:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225305.496:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225305.496:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225305.496:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225305.496:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225305.497:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225305.497:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0913/225305.497:ERROR:exception_snapshot_win.cc(88)] thread ID 15984 not found in process
+[0913/225306.729:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225306.731:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225306.731:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225306.731:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225306.731:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225306.731:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/225306.731:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0913/225306.732:ERROR:exception_snapshot_win.cc(88)] thread ID 10764 not found in process
+[0914/001959.374:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/002007.776:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/002012.540:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/002149.900:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/002237.969:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/002349.226:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/002452.940:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/002632.828:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/003417.038:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/064610.092:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.093:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.093:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.093:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.093:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.093:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/064610.115:ERROR:exception_snapshot_win.cc(88)] thread ID 13144 not found in process
+[0914/064610.116:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.117:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.117:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.117:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.117:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.117:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.136:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.137:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.137:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.137:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.137:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.137:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/064610.117:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/064610.151:ERROR:exception_snapshot_win.cc(88)] thread ID 19128 not found in process
+[0914/064610.137:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/064610.183:ERROR:exception_snapshot_win.cc(88)] thread ID 11280 not found in process
+[0914/130322.840:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/130322.844:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/130322.844:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/130322.844:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/130322.844:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/130322.844:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/130323.142:ERROR:exception_snapshot_win.cc(88)] thread ID 23644 not found in process
+[0914/170149.806:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/170745.875:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/170752.787:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/171008.063:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/171926.413:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/171927.188:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/172136.454:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/172401.755:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/172629.256:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/174104.013:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174104.015:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174104.015:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174104.015:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174104.015:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174104.015:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174105.002:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174105.003:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174105.003:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174105.003:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174105.003:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174105.003:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174105.003:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174105.004:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/174108.780:ERROR:exception_snapshot_win.cc(88)] thread ID 15728 not found in process
+[0914/174104.015:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/174108.782:ERROR:exception_snapshot_win.cc(88)] thread ID 6944 not found in process
+[0914/174109.093:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174109.094:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174109.094:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174109.094:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/174109.163:ERROR:exception_snapshot_win.cc(88)] thread ID 11368 not found in process
+[0914/174113.969:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174113.970:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/174113.970:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/174116.487:ERROR:exception_snapshot_win.cc(88)] thread ID 7248 not found in process
+[0914/204735.335:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/204737.703:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/204914.444:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/205646.237:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.238:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.238:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.238:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.238:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.238:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.238:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.238:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/205646.399:ERROR:exception_snapshot_win.cc(88)] thread ID 7764 not found in process
+[0914/205646.653:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.654:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.654:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.654:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.654:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.655:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.655:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205646.655:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/205646.656:ERROR:exception_snapshot_win.cc(88)] thread ID 5972 not found in process
+[0914/205652.088:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205652.089:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205652.089:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205652.089:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205652.089:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205652.089:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/205652.089:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0914/205657.502:ERROR:exception_snapshot_win.cc(88)] thread ID 19276 not found in process
+[0914/210930.252:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/212934.299:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/213122.497:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/214802.658:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/215704.385:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/220149.949:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/220518.674:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/220815.648:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/221149.219:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/221400.733:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/221504.156:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/221603.811:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/221908.999:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/222059.113:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/222202.097:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/222607.571:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/222636.223:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/223049.591:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/223556.008:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/224551.957:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/224807.058:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/230201.617:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/232004.468:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/234000.249:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0914/235855.319:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/001308.540:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/002304.984:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/002647.720:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/003927.216:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/005708.653:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/010352.146:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/193818.698:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/194026.823:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/194053.760:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/194119.797:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/194605.509:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/194622.218:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/195100.645:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/195144.177:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/195350.134:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/195754.177:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/200209.553:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0915/200253.396:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.397:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.398:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200253.399:ERROR:exception_snapshot_win.cc(88)] thread ID 21680 not found in process
+[0915/200253.403:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.403:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.403:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.403:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.403:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.413:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.414:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.415:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.404:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200253.418:ERROR:exception_snapshot_win.cc(88)] thread ID 20012 not found in process
+[0915/200253.414:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200253.418:ERROR:exception_snapshot_win.cc(88)] thread ID 9800 not found in process
+[0915/200253.422:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.423:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200253.453:ERROR:exception_snapshot_win.cc(88)] thread ID 17936 not found in process
+[0915/200253.415:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200253.466:ERROR:exception_snapshot_win.cc(88)] thread ID 22032 not found in process
+[0915/200253.705:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.706:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.706:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.706:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.735:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.735:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.735:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.735:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.736:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.706:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200253.736:ERROR:exception_snapshot_win.cc(88)] thread ID 21980 not found in process
+[0915/200253.736:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200253.747:ERROR:exception_snapshot_win.cc(88)] thread ID 4636 not found in process
+[0915/200253.754:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.755:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.756:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.756:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.756:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200253.756:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200253.763:ERROR:exception_snapshot_win.cc(88)] thread ID 22324 not found in process
+[0915/200254.167:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.196:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.197:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.197:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.197:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.197:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.197:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.197:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.197:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.197:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200254.168:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200255.632:ERROR:exception_snapshot_win.cc(88)] thread ID 23360 not found in process
+[0915/200254.197:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200255.647:ERROR:exception_snapshot_win.cc(88)] thread ID 23300 not found in process
+[0915/200255.743:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.744:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.744:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.744:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.744:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.744:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.744:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.745:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.757:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.758:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.759:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.759:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.759:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.759:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200255.759:ERROR:exception_snapshot_win.cc(88)] thread ID 21404 not found in process
+[0915/200255.745:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200255.760:ERROR:exception_snapshot_win.cc(88)] thread ID 22448 not found in process
+[0915/200255.786:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.822:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.822:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.822:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.822:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.822:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200255.822:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200255.869:ERROR:exception_snapshot_win.cc(88)] thread ID 17492 not found in process
+[0915/200256.174:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200256.175:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200256.175:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200256.175:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200256.176:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200256.176:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200256.190:ERROR:exception_snapshot_win.cc(88)] thread ID 13952 not found in process
+[0915/200301.027:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200301.028:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200301.028:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200301.028:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200301.028:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200301.028:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200301.036:ERROR:exception_snapshot_win.cc(88)] thread ID 18184 not found in process
+[0915/200301.273:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200301.274:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200301.274:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200301.275:ERROR:exception_snapshot_win.cc(88)] thread ID 16172 not found in process
+[0915/200418.694:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200418.695:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200418.698:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200418.698:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200418.698:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200418.698:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200418.698:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200418.698:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0915/200418.698:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/200418.722:ERROR:exception_snapshot_win.cc(88)] thread ID 22232 not found in process
