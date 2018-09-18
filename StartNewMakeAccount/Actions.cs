@@ -25,6 +25,8 @@ namespace StartNewMakeAccount
         private bool url = false;
 
         private string email;
+
+        private string prettyName;
      
 
         protected string[] name;
@@ -49,9 +51,10 @@ namespace StartNewMakeAccount
                 var random = new Random();
                 this.name = File.ReadLines("names.txt").ToArray();
                 string[] emails = File.ReadAllLines("gmail.txt");
-                
 
-                email = $"{emails[random.Next(0, emails.Length)]}+{name[random.Next(1500, 3000)].Trim()}{name[random.Next(0, 1500)].Trim()}@gmail.com";
+                prettyName = PrettyName();
+
+                email = $"{emails[random.Next(0, emails.Length)]}+{prettyName}{PrettyName()}@gmail.com";
 
                 string current_name = name[new Random().Next(0, 3000)];
 
@@ -121,6 +124,9 @@ namespace StartNewMakeAccount
 
 
             }
+
+
+
             if (!country && driver.FindElementById("newUserCountry") != null)
             {
                 try
@@ -131,6 +137,15 @@ namespace StartNewMakeAccount
                 catch { }
             }
 
+            if (!country && driver.FindElementByCssSelector(".NuxContainer__NuxStepContainer button") != null)
+            {
+                try
+                {
+                    driver.FindElementByCssSelector(".NuxContainer__NuxStepContainer button").Click();
+                    country = true;
+                }
+                catch { }
+            }
             if (!card && driver.FindElementsByCssSelector(".NuxInterest").Count > 1)
             {
 
@@ -266,7 +281,7 @@ namespace StartNewMakeAccount
                     {
                         driver.FindElementById("userFirstName").SendKeys(Keys.Backspace);
                         driver.FindElementById("userLastName").SendKeys(Keys.Backspace);
-
+                        driver.FindElementById("userUserName").SendKeys(Keys.Backspace);
                     }
                     var selectElement = new SelectElement(driver.FindElementById("accountBasicsCountry"));
                     selectElement.SelectByValue("US");
@@ -278,7 +293,11 @@ namespace StartNewMakeAccount
                     string[] cities = File.ReadAllLines("city_names.txt");
                     driver.FindElementById("userLocation").SendKeys(cities[new Random().Next(0, cities.Count())]);
 
-                    string userName = driver.FindElementById("userUserName").GetAttribute("value");
+
+                    string userName = prettyName + new Random().Next();
+                    driver.FindElementById("userUserName").SendKeys(userName);
+
+                  //  string userName = driver.FindElementById("userUserName").GetAttribute("value");
 
                     //malmopianoilianaruby
                     SaveSettings();
@@ -305,7 +324,7 @@ namespace StartNewMakeAccount
                     }
 
                     var input = driver.FindElementById("boardEditName");
-                    input.SendKeys(PrettyName());
+                    input.SendKeys(prettyName);
 
                     var buttonsCreate = driver.FindElementsByTagName("button");
                     foreach (var item in buttonsCreate)
